@@ -1,3 +1,7 @@
 # Penguin
  Penguin
-<img src="https://raw.githubusercontent.com/CodrinGavan/Penguin/master/Penguin.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/Penguin/">Live Preview</a>
+ </li>
+ </ul>
